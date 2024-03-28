@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## My name Denis
-##### - 💻 I am an automated systems engineer from the city of Kazan;
-##### - 📖 I am interested in web development;
-##### - 🎓 I'm also interested in energy. I made an automatic solar panel tracking system on Arduino and got a patent
+### My name Denis
+- 💻 I am an automated systems engineer from the city of Kazan;
+- 📖 I am interested in web development;
+- 🎓 I'm also interested in energy. I made an automatic solar panel tracking system on Arduino and got a patent
 
 
 ---
@@ -38,4 +38,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisamirov&layout=compact)](https://github.com/denisamirov/github-readme-stats)
