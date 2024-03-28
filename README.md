@@ -2,8 +2,15 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisamirov)](https://github.com/denisamirov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisamirov)](https://github-readme-stats.vercel.app/api?username=denisamirov&hide=contribs,prs)
 
-----------------------------------
+![](https://komarev.com/ghpvc/?username=denisamirov)
 
-[![codewars](https://www.codewars.com/users/denisamirov/badges/large)](https://www.codewars.com/denisamirov/username)
+---
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+---
+
+[![codewars](https://www.codewars.com/users/denisamirov/badges/large)](https://www.codewars.com/users/denisamirov)
