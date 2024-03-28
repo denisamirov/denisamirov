@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name Denis
-- 💻 I am an automated systems engineer from the city of Kazan;
-- 📖 I am interested in web development;
-- 🎓 I'm also interested in energy. I made an automatic solar panel tracking system on Arduino and got a patent
+## My name Denis
+### - 💻 I am an automated systems engineer from the city of Kazan;
+### - 📖 I am interested in web development;
+### - 🎓 I'm also interested in energy. I made an automatic solar panel tracking system on Arduino and got a patent
 
 
 ---
@@ -24,16 +24,16 @@ My name Denis
     <img src="https://www.codewars.com/users/denisamirov/badges/micro" alt="Codewars Badge"/>
   </a>
 </div>
----
+-------------------------
 
 
 
-### My skills are:
+### My skills are
 <div id="codewars" align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,nodejs,react,mysql,postgres,py" alt="skills"/>
   </a>
 </div>
----
+--------------------------
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denisamirov)](https://github-readme-stats.vercel.app/api?username=denisamirov&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
