@@ -39,10 +39,9 @@
 ---
 
 <div id="codewars" align="center">
-  <div display="inline">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisamirov&layout=compact)](https://github.com/denisamirov/github-readme-stats)
-  </div>
-  <div display="inline">
+
   ![Leetcode](https://leetcode-badge-sage.vercel.app/badge/denisamirov?theme=light)
-  </div>
+
 </div>
