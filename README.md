@@ -42,6 +42,6 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisamirov&layout=compact)](https://github.com/denisamirov/github-readme-stats)
 
-  ![Leetcode](https://leetcode-badge-sage.vercel.app/badge/denisamirov?theme=light)
+  ![Leetcode](https://leetcode-badge-sage.vercel.app/badge/denisamirov?theme=dark)
 
 </div>
