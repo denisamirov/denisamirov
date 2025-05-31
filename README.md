@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### My name Denis
-💻 I am a Node.js developer;
-📖 I specialize in backend development with a focus on Nest.js, Docker, and PostgreSQL;
-🎓 I'm also interested in energy. I created an automatic solar panel tracking system on Arduino and received a patent for it. 😊
+💻 I am a Node.js developer; 
+📖 I specialize in backend development with a focus on Nest.js, Docker, and PostgreSQL; 
+🎓 I'm also interested in energy. I created an automatic solar panel tracking system on Arduino and received a patent for it. 😊 
 
 
 ---
@@ -48,7 +48,5 @@
 <div id="codewars" align="center">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denisamirov&layout=compact)](https://github.com/denisamirov/github-readme-stats)
-
-  ![Leetcode](https://leetcode-badge-sage.vercel.app/badge/denisamirov)
 
 </div>
